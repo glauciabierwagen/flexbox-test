@@ -2,13 +2,11 @@
 <b> Course IT Women - Front End </b> 
 
 ## Guidelines
-- Creating a CV, a diary or list of favorite things using tags from HTML. 
-- Creating first repository.
+- Based on the image given in Figma, recreate the image using divs and flexbox. The colors can be different, but the boxes and circles need to be placed using flexbox. -  - Creation this as a new repository and send the link to your teacher. 
 
 ## Extra materials 
 
-- How the internet works: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work.  (English/Portuguese).
-- How the Web works: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works. (English/Portuguese).
-- Using Git Bash (for Windows users): https://www.youtube.com/watch?v=oQc-2gsjgDg. (English).
-- W3Schools. <i>  HTML Reference </i>: https://www.w3schools.com/tags/default.asp. 
-- Curso em vídeo. <i> Git e GitHub </i>: https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA (Portuguese Videos).
+- A Complete Guide to Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/ (English).
+- Flexbox basic concepts: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox (English).
+- Flexbox playground: https://codepen.io/enxaneta/full/adLPwv/ (English).
+
