@@ -1,7 +1,7 @@
 # Flexbox
 <b> Course IT Women - Front End </b>
 <p align="center">
-  <img src="https://github.com/glauciabierwagen/flexbox-test/blob/main/images/readmeimage.png" width="850"/>
+  <img src="https://github.com/glauciabierwagen/flexbox-test/blob/main/images/readmeimage.png" width="750"/>
 </p>
 
 ## Guidelines
