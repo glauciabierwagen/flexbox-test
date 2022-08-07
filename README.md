@@ -1,5 +1,8 @@
 # Flexbox
-<b> Course IT Women - Front End </b> 
+<b> Course IT Women - Front End </b>
+<p align="center">
+  <img src="https://github.com/glauciabierwagen/figma-test/blob/main/images/readmeimage.png"/>
+</p>
 
 ## Guidelines
 - Based on the image given in Figma, recreate the image using divs and flexbox. The colors can be different, but the boxes and circles need to be placed using flexbox. -  - Creation this as a new repository and send the link to your teacher. 
